@@ -1,8 +1,5 @@
 #CODED BY DANIEL AMADOR DOS SANTOS
-#This is a simple program solve single neural networks problems.
-#Implements Perceptron and Adaline.
-#Works with Python3
-#The source code is still not standardized with Python conventions
+#These are the classes implementations for snnn_program
 
 from abc import ABCMeta, abstractmethod
 from decimal import Decimal

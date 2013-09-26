@@ -1,3 +1,9 @@
+#CODED BY DANIEL AMADOR DOS SANTOS
+#This is a simple program solve single neural networks problems.
+#Implements Perceptron and Adaline.
+#Works with Python3
+#The source code is still not standardized with Python conventions
+
 from singl_neuron_neural_networks import *
 
 def __main__():
