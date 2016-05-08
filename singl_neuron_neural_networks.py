@@ -1,4 +1,4 @@
-#CODED BY DANIEL AMADOR DOS SANTOS
+#CODED BY DANIEL AMADOR DOS SANTOS :D
 #These are the classes implementations for snnn_program
 
 from abc import ABCMeta, abstractmethod
